@@ -1,0 +1,8 @@
+matplotlib
+tqdm==4.64.0
+streamlit==1.2.0
+tensorflow==2.8.0 
+scikit-learn==1.0.2 
+altair==4.0.0
+# opencv-python==4.5.5.64
+protobuf==3.20.*
